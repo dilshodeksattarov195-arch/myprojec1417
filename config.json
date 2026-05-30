@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrncrypt",
+        "uuid": 5686421,
+        "checksum": "628nqp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
